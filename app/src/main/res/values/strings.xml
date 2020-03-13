@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FrostApp</string>
+    <string name="some_error">Something went wrong</string>
+    <string name="select_station">SELECT STATION</string>
+</resources>
